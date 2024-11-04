@@ -10,7 +10,7 @@ namespace Tyuiu.SchcapovMA.Sprint4.Task0.V5
             //Длинна строки 75 символов
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
-            Console.WriteLine("* Тема: Одномерный массивы(статический ввод)                              *");
+            Console.WriteLine("* Тема: Одномерные массивы(статический ввод)                              *");
             Console.WriteLine("* Задание #0                                                              *");
             Console.WriteLine("* Вариант #5                                                              *");
             Console.WriteLine("* Выполнил: Щапов Максим Александрович | ИБКСб-24-1                       *");
