@@ -47,7 +47,7 @@ namespace Tyuiu.SchcapovMA.Sprint4.Task2.V5
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("Произведение чётных элементов массива равно = " + ds.Calculate(numsArray));
+            Console.WriteLine("Произведение чётных элементов массива равно: " + ds.Calculate(numsArray));
             Console.ReadKey();
         }
     }
