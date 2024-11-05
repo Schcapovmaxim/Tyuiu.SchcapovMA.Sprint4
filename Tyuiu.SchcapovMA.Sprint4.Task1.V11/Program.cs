@@ -47,7 +47,7 @@ namespace Tyuiu.SchcapovMA.Sprint4.Task1.V11
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("Сумма чётных элементов массива равна = " + ds.Calculate(numsArray));
+            Console.WriteLine("Сумма чётных элементов массива равна: " + ds.Calculate(numsArray));
             Console.ReadKey();
         }
     }
