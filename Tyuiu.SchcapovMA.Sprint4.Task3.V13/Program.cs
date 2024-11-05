@@ -50,7 +50,7 @@ namespace Tyuiu.SchcapovMA.Sprint4.Task3.V13
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("Суммма элементов в третьем стобце массива равно = " + ds.Calculate(mtrx));
+            Console.WriteLine("Суммма элементов в третьем стобце массива равно: " + ds.Calculate(mtrx));
             Console.ReadKey();
         }
     }
